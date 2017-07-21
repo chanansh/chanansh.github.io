@@ -1,2 +1,2 @@
-# chanansh.github.io
-my github pages
+# The Joy of Data
+## A Data Science Blog by Hanan Shteingart, PhD
