@@ -1,13 +1,13 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, I am Hanan
 content: >
-  # I am here for your personal business
+  # Data + Science = Business Value
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  I will help you to turn data into a gold mine using data and science 
+  (machine learning, data science, artificial intelligence, optimization, supervised learning, unsupervised learning, reinforcement learning, causal inference, uplift modeling, contextual bandits)
+buttonName: Start Using Your Data
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/hero/hanan profile standing.jpeg
+videoThumb: images/hero/haya-data-talk.png
+videoURL: https://www.youtube.com/watch?v=0ucrVbLHeQc&t=1s

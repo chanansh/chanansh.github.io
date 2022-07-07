@@ -4,17 +4,19 @@ topTitle: About
 title: >
   ## About me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
-content: >
-  ### I design and build ultimate things.
+  20 years experience in building data science teams and deliver business impact using data.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
+content: >
+  ### I translate business problems into data science language and back.
+
+  I hold a PhD in Computation Neuroscience and specialize in optimizing business outcomes by using ML and building data science teams from scratch. 
+  My resume includes notable companies such as Biocatch, Microsoft, Gong, Playtika, Vianai and Nvidia.
+  
+  My motto is “Data + Science = Business Value”. Quoting from my recently published article [“ML Prescriptive Canvas for Optimizing Business Outcomes”](https://arxiv.org/abs/2206.10333):
+  
+  “While the lion’s share of data science projects uses a predictive approach, to drive improvements these predictions should become decisions”
+button1Name: Consult Me
 button2Name: Download CV
 button1Target: contact
 button2Target: contact
-image: images/about/about-img.jpg
+image: images/about/unicorn_transperent.png

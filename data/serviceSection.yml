@@ -8,17 +8,28 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Building Data Science Teams 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+      If you want to build a data sciecne team in your organization I can help you define the business need, 
+      translate it into data science langauge, hire the right people, setting the methodology 
+      and even bootstrap the team hands-on if needed.
+
+    image: images/service/team-svgrepo-com.svg
   - content: >
-      #### Web Development 
+      #### Advisory
+      I can advise you how a business problem can be solved with data + science, 
+      define a roadmap and ignite it with a proof of concept if needed.
+      
+      Area of expertise:
+      * Life time value
+      * Churn prediction
+      * Dynamic Pricing
+      * Uplift Modeling 
+      * Causal Model
+      * Gradient Boosted Trees
+      * Mixed Integer Programming
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+    image: images/service/holmes.svg
   - content: >
       #### Creative Design 
 
